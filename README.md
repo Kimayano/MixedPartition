@@ -19,7 +19,7 @@ Second line: All constraint statements of the loop.
 
 Third line: All assignment statements of the loop.
 
- An example of a input file:
+ An example of an input file:
 
 ```
 x y
