@@ -128,6 +128,10 @@
 | 125  |               while(4x+y>=1) x1=-2x+4y , y1=4x               |   U    |   \   |   U    |   \   |   U    |   \   |      U      |   \   |      F      |
 | 126  | while(q>=0 ) q1=q+a-1 , a1=3*a-5*b+c , b1=12*a+3*b ,  c1=3*c-4*d , d1=4*c+3*d |   U    |   \   |   U    |   \   |   U    |   \   |      U      |   \   |      U      |
 | 127  |          while(y>=1 , x>=y) 32*y>=x , x1=2x , y1=3y          |   U    |   \   |   U    |   \   |   U    |   \   |      U      |   \   |      U      |
-T:Termination
-F:Non-termination
-U:Unknown
+
+> T:Termination
+>
+> F:Non-termination
+>
+> U:Unknown 
+>
