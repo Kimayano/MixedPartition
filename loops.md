@@ -1,4 +1,4 @@
-| Source      | No.                                                         | Loop                                                       | PAL   | ST    |       | TS    |       | irankfinder | lassoranker | TASLC |      |      |
+| Source      | No.                                                         | Loop                                                       | PAL   | ST    |       | TS    |       || irankfinder || lassoranker | TASLC |      |      |
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ----- | ----- | ----- | ----- | ----------- | ----------- | ----- | ---- | ---- |
 |||| Result      | Time                                                         | Result                                                         | Time  | Result  | Time  | Result  | Time  | Result        | Result        |       |      |      |
 | taslc-F   | 1                                                            | while(-x+y<=0, -x-y+1<=0) y1=y-2x+1, x1=x                    | F     | 0.016 | F     | 0.015 | F     | 0.015       | U           | \     | U    | F    |
