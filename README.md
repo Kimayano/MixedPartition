@@ -1,5 +1,4 @@
 # MixedPartition
-# MixedPartition
 This repository has three files:
 **1**：Contains an input loop.
 
