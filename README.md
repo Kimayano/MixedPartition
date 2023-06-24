@@ -9,6 +9,24 @@ This repository has three files:
 
 **loops.md**: Shows all experimental loops.
 
+## **How  to wirte input file**
+
+The input file needs three lines:
+
+First line: All variables of the loop.
+
+Second line: All constraint statements of the loop.
+
+Third line: All assignment statements of the loop.
+
+ An example of a input file:
+
+```
+x y
+x>=y 
+x1==2*x y1==y+1
+```
+
 ## **How  to use**
 
 First: Download the file 1 and init.py
