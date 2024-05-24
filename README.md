@@ -45,4 +45,4 @@ All experimental loops are shown in file *loops.md*. Loops in this file come fro
 
 3.https://github.com/MinghaiQingtong/PPL_Project/blob/master/Experiments/NestTASLCCom.md
 
-This file shows the comparison of our mixed partition scheme with iRankFinder and LassoRanker. The column "Result" aas three types of records, which "T" represents the loop is termination, "F" represents the loop is non-termination, "U" represents the loop can't be determined by the tool. The column "time" show the full process of a loop  determined. For loops that have the results "F", we do not record the time.
+This file shows the comparison of our mixed partition scheme with iRankFinder and LassoRanker. The column "Result" as three types of records, which "T" represents the loop is termination, "F" represents the loop is non-termination, "U" represents the loop can't be determined by the tool. The column "time" show the full process of a loop  determined. For loops that have the results "F", we do not record the time.
